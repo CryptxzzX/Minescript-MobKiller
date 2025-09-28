@@ -1,7 +1,7 @@
 # Minescript MobKiller
 
-# Credits:
-### razrcraft for his smoothcam library
+# Requirements:
+### YOU MUST HAVE SMOOTHCAM.PY WITH MOBKILLER.PY
 
 # Description
 Customizable Minescript that finds all mobs by name from the target array,  
