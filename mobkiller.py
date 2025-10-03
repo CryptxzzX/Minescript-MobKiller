@@ -5,6 +5,8 @@ import smoothcam
 from system.lib import minescript
 from system.lib.minescript import echo_json, EventQueue, EventType
 import types
+
+# === Entity Types ===
 class Entity:
     sheep = "minecraft.sheep"
     cow = "minecraft.cow"
